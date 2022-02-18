@@ -1,0 +1,40 @@
+.right{
+    float:right;
+  }
+
+.left{
+    float:right;  
+
+}
+
+h1{
+  color: rgb(183,163,224);
+  padding-left:200px;
+
+}
+
+h2{
+  color: rgb(221,160,221); 
+  text-decoration: underline;
+}
+
+li{
+  list-style-type: upper-roman
+
+}
+body{
+  background-color: #222;
+  color: rgb(245,245,225);
+}
+
+.box1{
+  background-color: rgb(245,245,225);
+  color: #222;
+  width: 600px;
+  margin: 2em;
+  margin-left: 10em;
+  padding-top: 2em;
+  padding-bottom: 2em; 
+  padding: 5px;
+  border: 2px solid gray;
+}
